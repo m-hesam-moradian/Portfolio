@@ -516,6 +516,7 @@ footer p {
 }
 @media (max-width: 634px) {
   .home {
+        padding-top: 33rem;
     display: grid;
     grid-auto-columns: auto;
     justify-content: space-evenly;
